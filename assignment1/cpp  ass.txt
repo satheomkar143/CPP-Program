@@ -1,0 +1,53 @@
+1)Write a Cpp program to accept the height of a person in centimeter
+ and categorize the person according to their height
+
+Height < 150.0                                       The person is Dwarf.
+ Height >= 150.0 && Height < 165.0  the person is  average heighted.
+Height >= 165.0) && (Height <= 195.0 he person is taller
+otherwise  Abnormal height.
+=====================================================
+2)Write a Cpp program to read temperature in centigrade and display a suitable message according to temperature 
+state below : Go to the editor
+Temp < 0 then Freezing weather
+Temp 0-10 then Very Cold weather
+Temp 10-20 then Cold weather
+Temp 20-30 then Normal in Temp
+Temp 30-40 then Its Hot
+Temp >=40 then Its Very Hot.
+
+====================================================
+3)Conditional Statement: Exercise-14 with Solution
+Write a Cpp program to check whether a triangle is Equilateral, Isosceles or Scalene.
+
+Equilateral triangle: An equilateral triangle is a triangle in which all three sides are equal. 
+In the familiar Euclidean geometry, equilateral triangles are also equiangular; that is, all three internal angles
+ are also congruent to each other and are each 60°.
+
+Isosceles triangle: An isosceles triangle is a triangle that has two sides of equal length.
+
+Scalene triangle: A scalene triangle is a triangle that has three unequal sides, such as those illustrated above.
+
+================================================
+
+4)Write a Cpp program to check whether a triangle can be formed by the given value for the angle
+=========================================
+5)
+Write a program in Cpp to calculate and print the Electricity bill 
+of a given customer. The customer id., name and unit consumed by 
+the user should be taken from the keyboard and display the total 
+amount to pay to the customer. The charge are as follow :
+
+Unit	Charge/unit
+upto 199	@1.20
+200 and above but less than 400	@1.50
+400 and above but less than 600	@1.80
+600 and above	@2.00
+If bill exceeds Rs. 400 then a surcharge of 15% will be charged and the minimum bill should be of Rs. 100/-
+====
+6)
+C++ program to count total number of notes in entered amount.
+
+
+
+
+.
